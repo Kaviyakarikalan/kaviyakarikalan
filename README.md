@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Kaviya K Banner" width="100%">
+  <img src="./banner.png" alt="Kaviya K Banner" width="200%">
 </p>
 
 <br>
