@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=900&lines=AI+Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+Intelligent+AI+Applications;FastAPI+%7C+React+%7C+Python+%7C+TensorFlow;Always+Learning+New+Technologies" />
 
-### 🚀 AI Full Stack Developer | AI & Machine Learning Engineer
+## 🚀 AI Full Stack Developer | AI & Machine Learning Engineer
 
 <img src="https://komarev.com/ghpvc/?username=kaviyakarikalan&label=Profile%20Views&color=14B8A6&style=for-the-badge" />
 
