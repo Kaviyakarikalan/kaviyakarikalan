@@ -154,18 +154,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaviyakarikalan&show_icons=true&theme=dark&hide_border=true&title_color=14B8A6&icon_color=14B8A6"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyakarikalan&layout=compact&theme=dark&hide_border=true&title_color=14B8A6"/>
-
-</div>
-
----
-
 # 📈 GitHub Contribution Activity
 
 <div align="center">
