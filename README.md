@@ -14,16 +14,16 @@
 
 # 💫 About Me
 
-🎓 Final-year B.E. CSE (AI & ML) student | Java, Python, JavaScript, React
+🎓 Final-year **B.E. CSE (AI & ML)** student who builds full-stack and AI-powered apps.
 
-🌱 Learning MERN Stack, Java Full Stack & Generative AI
+💻 **Java, Python, JavaScript, React, SQL, REST APIs.**
 
-🎯 Open to Software Dev, AI/ML & Full Stack internships, and campus placements
+🎯 **Looking For:** Software Development • AI/ML • Full Stack Internships • Campus Placements
 
 📫 **How to Reach Me**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kaviya-k-055900294/" target="_blank">
+<a href="https://www.linkedin.com/in/kaviya-k15/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Kaviya%20K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -36,7 +36,7 @@
 
 ### 🚀 Career Objective
 
-Aspiring Software Engineer with strong fundamentals in DSA, Full Stack Development, and AI/ML — eager to build scalable, real-world applications.
+Aspiring **Software Engineer** skilled in full-stack development, DSA, and AI/ML, aiming to build scalable, real-world applications.
 
 # 💻 Tech Stack
 
