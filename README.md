@@ -1,10 +1,10 @@
- <div align="center">
+<div align="center">
 
 # Hi 👋, I'm Kaviya K
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=900&lines=AI+Full+Stack+Developer;AI%2FML+Enthusiast;MERN+Stack+Learner;Java+Full+Stack+Learner;Building+Intelligent+Web+%26+AI+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=900&lines=Software+Engineer;DSA+Learner;MERN+Stack+Learner;Java+Full+Stack+Learner;Building+Intelligent+Web+%26+AI+Applications" />
 
-### 🚀 AI Full Stack Developer | AI/ML Enthusiast | MERN Stack Learner
+### 🚀 Software Engineer | DSA Learner | MERN Stack Learner
 
 <img src="https://komarev.com/ghpvc/?username=kaviyakarikalan&label=Profile+Views&color=00C896&style=for-the-badge"/>
 
@@ -14,15 +14,13 @@
 
 # 💫 About Me
 
-🎓 Final-year **B.E. Computer Science & Engineering (AI & ML)** student passionate about building **full-stack applications and AI-powered solutions**.
+🎓 Final-year **B.E. CSE (AI & ML)** student who loves building full-stack apps and AI-powered solutions.
 
-💻 Skilled in **Java, Python, JavaScript, React, SQL, and REST APIs**, with a growing focus on **Spring Boot, MERN Stack, Machine Learning, and Generative AI**.
+💻 Skilled in **Java, Python, JavaScript, React, SQL, and REST APIs**.
 
-🚀 Interested in **software development, AI/ML, and AI Full Stack Development**, with a strong focus on **DSA, problem-solving, and real-world projects**.
+🌱 Currently exploring **MERN Stack, Java Full Stack, and Generative AI (LLMs, RAG)**.
 
-🌱 Currently learning **MERN Stack, Java Full Stack, Generative AI, LLMs, and RAG**.
-
-🎯**I'm Looking For**
+🎯 **I'm Looking For**
 
 - 💼 Software Development Internships
 - 🤖 AI/ML Internships
@@ -46,6 +44,7 @@
 ### 🚀 Career Objective
 
 Aspiring **AI Full Stack Developer** with a strong foundation in **Artificial Intelligence, Machine Learning, Java Full Stack Development, and MERN Stack**. Passionate about building intelligent, scalable, and production-ready applications while continuously learning modern technologies and contributing to impactful software solutions.
+
 # 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -198,6 +197,8 @@ Aspiring **AI Full Stack Developer** with a strong foundation in **Artificial In
  
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 
 |------------|----------------|---------------| 
+| 🏛️ **Project Setu** | Enterprise-grade AI-powered government services & grievance management platform with NLP-based complaint triage, SLA escalation, RBAC, and forensic audit logging. | React • Node.js • Express • Prisma • Python • FastAPI • MySQL/PostgreSQL | 
+| 🤖 **Zuno Bot** | AI-powered chatbot with secure authentication, persistent chat history, PDF chat, and Retrieval-Augmented Generation (RAG). | Python • Flask • MongoDB • Gemini API • PyMuPDF • FAISS | 
 | 🌾 **AI-Powered Crop & Livestock Disease Diagnosis** | Developed an AI-powered platform for diagnosing crop and livestock diseases using deep learning, image classification, and secure JWT authentication. | FastAPI • TensorFlow • CNN • Python • JWT | 
 | 📄 **Resume Screening System** | Built an intelligent resume screening system that automatically classifies and ranks resumes using Natural Language Processing (NLP) and Machine Learning techniques. | Python • Scikit-learn • NLP • Pandas | 
 | 🎫 **Support Ticket Classification System** | Designed an NLP-based ticket classification system to automatically categorize customer support tickets, improving issue routing and reducing manual effort. | Python • NLP • Scikit-learn • TF-IDF • Pandas | 
@@ -205,8 +206,6 @@ Aspiring **AI Full Stack Developer** with a strong foundation in **Artificial In
 | 🌐 **Developer Portfolio Website** | Designed and developed a fully responsive personal portfolio showcasing projects, technical skills, certifications, and achievements with a modern user interface. | HTML • CSS • JavaScript • Bootstrap | 
  
 --- 
- 
- 
  
 # 🚀 Current Focus 
  
@@ -231,4 +230,4 @@ Aspiring **AI Full Stack Developer** with a strong foundation in **Artificial In
  
 ⭐ Feel free to explore my repositories, connect with me on LinkedIn, and follow my learning journey. 
  
-</div> 
+</div>
