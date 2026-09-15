@@ -173,18 +173,7 @@ Aspiring **Software Engineer** skilled in full-stack development, DSA, and AI/ML
 
 - 🔗 **Profile:** https://leetcode.com/u/Kaviya_k15/
 - 🎯 **Goal:** Solve **300+** problems with a strong focus on **Java DSA**, interview preparation, and competitive programming.
-
-# 📈 GitHub Contribution Activity
-
-<div align="center">
-
-<p>
-<i>My GitHub contribution history, showcasing consistent coding activity, project development, and continuous learning.</i>
-</p>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaviyakarikalan&theme=github-dark&bg_color=0d1117&hide_border=true&line=14B8A6&point=FFFFFF&color=14B8A6&area=true&area_color=14B8A6&title_color=FFFFFF"/> 
  
-</div> 
  
 # 🚀 Featured Projects 
  
