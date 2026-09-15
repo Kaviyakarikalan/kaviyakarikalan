@@ -14,18 +14,11 @@
 
 # 💫 About Me
 
-🎓 Final-year **B.E. CSE (AI & ML)** student who loves building full-stack apps and AI-powered solutions.
+🎓 Final-year B.E. CSE (AI & ML) student | Java, Python, JavaScript, React
 
-💻 Skilled in **Java, Python, JavaScript, React, SQL, and REST APIs**.
+🌱 Learning MERN Stack, Java Full Stack & Generative AI
 
-🌱 Currently exploring **MERN Stack, Java Full Stack, and Generative AI (LLMs, RAG)**.
-
-🎯 **I'm Looking For**
-
-- 💼 Software Development Internships
-- 🤖 AI/ML Internships
-- 🌐 Full Stack Developer Internships
-- 🚀 Campus Placement Opportunities
+🎯 Open to Software Dev, AI/ML & Full Stack internships, and campus placements
 
 📫 **How to Reach Me**
 
@@ -43,7 +36,7 @@
 
 ### 🚀 Career Objective
 
-Aspiring **AI Full Stack Developer** with a strong foundation in **Artificial Intelligence, Machine Learning, Java Full Stack Development, and MERN Stack**. Passionate about building intelligent, scalable, and production-ready applications while continuously learning modern technologies and contributing to impactful software solutions.
+Aspiring Software Engineer with strong fundamentals in DSA, Full Stack Development, and AI/ML — eager to build scalable, real-world applications.
 
 # 💻 Tech Stack
 
